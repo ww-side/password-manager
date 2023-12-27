@@ -1,0 +1,17 @@
+.passwordWrapper {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  padding: 10px;
+}
+
+.passwordLayout {
+  background-color: #f5f5f5;
+  width: max-content;
+  padding: 15px;
+  border-radius: 15px;
+}
+
+.deleteBtn {
+  cursor: pointer;
+}
